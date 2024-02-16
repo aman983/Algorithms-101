@@ -1,4 +1,4 @@
-// This a go program for various searching algorithms
+// This a go program for known searching algorithms
 // 1) Linear Search
 // 2) Binary Search
 package main
