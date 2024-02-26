@@ -22,6 +22,12 @@ The following operations are implemented:
 - `is_empty()`: Checks if the stack is empty.
 - `is_full()`: Checks if the stack is full.
 
+<div align = "center">
+<img src="https://github.com/aman983/Algorithms-101/blob/main/C/Data%20Structures/Assets/stack.gif" width = 400>
+  <br>
+Working of stack
+</div>
+
 ## 🚀 Usage
 
 To use this stack implementation, you can include the provided source code files in your C project. You can modify the `main()` function in `stack.c` file to test the functionality or integrate the stack into your own project as needed.
