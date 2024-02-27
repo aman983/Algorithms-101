@@ -1,3 +1,10 @@
+""" The intitution behind bubble sort is to iterate over the array , compare the elements in pair of two and move the largest element 
+    to the end of array in each outer iteration """
+
+"""params:
+arr:list[int] list of integer"""
+
+
 def bubbleSort(arr: list):
     """In bubble sort we move the largest element to the right
     by doing comparison"""
