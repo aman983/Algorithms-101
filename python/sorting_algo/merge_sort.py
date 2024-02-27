@@ -1,5 +1,7 @@
 """ Merge sort is divide and conquere sorting algorithm """
-"""time complexity: O(nlogn)"""
+
+"""time complexity: O(nlogn)
+    Space Complexity: O(1)"""
 
 
 def merge(arr: list, low: int, mid: int, high: int):
