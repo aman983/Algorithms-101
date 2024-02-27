@@ -1,6 +1,3 @@
-""" Merge sort is divide and conquere sorting algorithm """
-
-
 def merge(arr: list, low: int, mid: int, high: int):
     helper = []
     i = low
