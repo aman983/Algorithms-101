@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Time complexity of Bubble Sort --> O(n^2)
+// Space complexity of Bubble Sort --> O(1)
+
+
 /* 
 @breif This function is used to prints the values of the array
 @param *arr -> pointer of the array to be printed
